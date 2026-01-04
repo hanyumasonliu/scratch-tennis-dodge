@@ -9,7 +9,7 @@ A simple arcade-style Scratch game built for CS50.
 - Game ends when lives reach 0
 
 ## Play the Game
-👉 https://scratch.mit.edu/projects/YOUR_PROJECT_ID/
+👉 https://scratch.mit.edu/projects/YOUR_PROJECT_ID/](https://scratch.mit.edu/projects/1261437966/
 
 ## Built With
 - Scratch (MIT)
